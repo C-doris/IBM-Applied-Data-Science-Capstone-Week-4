@@ -1,1 +1,1 @@
-# IBM-Applied-Data-Science-Capstone-Week-4
+# IBM-Applied-Data-Science-Capstone-Proposal
